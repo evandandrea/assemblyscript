@@ -1,4 +1,4 @@
-name: assemblyscript
+name: assemblyscript-ev
 version: git
 summary: A TypeScript to WebAssembly compiler.
 description: |
